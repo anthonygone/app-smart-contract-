@@ -4,10 +4,6 @@ A simple Base DeFi app:
 
 Connect wallet (MetaMask etc.)
 Show balance
-Send ETH (or USDC)
-Ready for Farcaster mini app later
-🧱 1. Create project (Next.js)
-npx create-next-app base-defi-app
 
 
 Create .env.local
