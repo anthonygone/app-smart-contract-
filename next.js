@@ -2,10 +2,6 @@
 
 A simple Base DeFi app:
 
-Connect wallet (MetaMask etc.)
-Show balance
-
-
 Create .env.local
 
 CDP_API_KEY=your_new_safe_key_here
