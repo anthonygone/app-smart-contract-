@@ -8,9 +8,7 @@ Send ETH (or USDC)
 Ready for Farcaster mini app later
 🧱 1. Create project (Next.js)
 npx create-next-app base-defi-app
-cd base-defi-app
-npm install ethers wagmi viem
-🔑 2. Add your API key (SAFE way)
+
 
 Create .env.local
 
