@@ -1,5 +1,3 @@
-🔧 What we’ll build
-
 Create .env.local
 
 CDP_API_KEY=your_new_safe_key_here
