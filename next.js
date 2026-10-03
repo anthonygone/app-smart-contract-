@@ -1,7 +1,5 @@
 🔧 What we’ll build
 
-A simple Base DeFi app:
-
 Create .env.local
 
 CDP_API_KEY=your_new_safe_key_here
